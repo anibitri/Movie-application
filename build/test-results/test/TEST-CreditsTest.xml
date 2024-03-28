@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="CreditsTest" tests="37" skipped="0" failures="0" errors="0" timestamp="2024-03-15T20:26:13" hostname="viglab-31" time="0.032">
+  <properties/>
+  <testcase name="testAddNeg()" classname="CreditsTest" time="0.005"/>
+  <testcase name="testAddPos()" classname="CreditsTest" time="0.001"/>
+  <testcase name="testFindCastNeg()" classname="CreditsTest" time="0.002"/>
+  <testcase name="testFindCastPos()" classname="CreditsTest" time="0.0"/>
+  <testcase name="testFindCrewNeg()" classname="CreditsTest" time="0.0"/>
+  <testcase name="testFindCrewPos()" classname="CreditsTest" time="0.0"/>
+  <testcase name="testGetCastFilmsNeg()" classname="CreditsTest" time="0.001"/>
+  <testcase name="testGetCastFilmsPos()" classname="CreditsTest" time="0.001"/>
+  <testcase name="testGetCastNeg()" classname="CreditsTest" time="0.0"/>
+  <testcase name="testGetCastPos()" classname="CreditsTest" time="0.001"/>
+  <testcase name="testGetCastStarsInFilmsNeg()" classname="CreditsTest" time="0.0"/>
+  <testcase name="testGetCastStarsInFilmsPos()" classname="CreditsTest" time="0.001"/>
+  <testcase name="testGetCrewFilmsNeg()" classname="CreditsTest" time="0.0"/>
+  <testcase name="testGetCrewFilmsPos()" classname="CreditsTest" time="0.0"/>
+  <testcase name="testGetCrewNeg()" classname="CreditsTest" time="0.0"/>
+  <testcase name="testGetCrewPos()" classname="CreditsTest" time="0.001"/>
+  <testcase name="testGetFilmCastNeg()" classname="CreditsTest" time="0.0"/>
+  <testcase name="testGetFilmCastPos()" classname="CreditsTest" time="0.003"/>
+  <testcase name="testGetFilmCrewNeg()" classname="CreditsTest" time="0.0"/>
+  <testcase name="testGetFilmCrewPos()" classname="CreditsTest" time="0.001"/>
+  <testcase name="testGetMostCastCreditsNeg()" classname="CreditsTest" time="0.002"/>
+  <testcase name="testGetMostCastCreditsPos()" classname="CreditsTest" time="0.001"/>
+  <testcase name="testGetNumCastCreditsNeg()" classname="CreditsTest" time="0.0"/>
+  <testcase name="testGetNumCastCreditsPos()" classname="CreditsTest" time="0.0"/>
+  <testcase name="testGetUniqueCastNeg()" classname="CreditsTest" time="0.001"/>
+  <testcase name="testGetUniqueCastPos()" classname="CreditsTest" time="0.0"/>
+  <testcase name="testGetUniqueCrewNeg()" classname="CreditsTest" time="0.0"/>
+  <testcase name="testGetUniqueCrewPos()" classname="CreditsTest" time="0.0"/>
+  <testcase name="testRemoveNeg()" classname="CreditsTest" time="0.0"/>
+  <testcase name="testRemovePos()" classname="CreditsTest" time="0.0"/>
+  <testcase name="testRemovePosValues()" classname="CreditsTest" time="0.0"/>
+  <testcase name="testSizeNeg()" classname="CreditsTest" time="0.0"/>
+  <testcase name="testSizeOfCastNeg()" classname="CreditsTest" time="0.0"/>
+  <testcase name="testSizeOfCastPos()" classname="CreditsTest" time="0.0"/>
+  <testcase name="testSizeOfCrewNeg()" classname="CreditsTest" time="0.0"/>
+  <testcase name="testSizeOfCrewPos()" classname="CreditsTest" time="0.0"/>
+  <testcase name="testSizePos()" classname="CreditsTest" time="0.0"/>
+  <system-out><![CDATA[Adding stores.CreditsMetaData@14dd7b39 under key 201 at location 201
+Adding stores.CreditsMetaData@508dec2b under key 201 at location 201
+Adding stores.CreditsMetaData@1e4f4a5c under key 201 at location 201
+Adding stores.CreditsMetaData@37313c65 under key 202 at location 202
+Adding stores.CreditsMetaData@465232e9 under key 203 at location 203
+Adding stores.CreditsMetaData@798162bc under key 202 at location 202
+Adding stores.CreditsMetaData@1df8da7a under key 203 at location 203
+Adding stores.CreditsMetaData@23941fb4 under key 204 at location 204
+Adding stores.CreditsMetaData@7486b455 under key 201 at location 201
+Adding stores.CreditsMetaData@660acfb under key 202 at location 202
+Adding stores.CreditsMetaData@5d908d47 under key 203 at location 203
+Adding stores.CreditsMetaData@5efa40fe under key 204 at location 204
+
+Starting testAddNeg...
+
+Starting testAddPos...
+Adding stores.CreditsMetaData@6cc4cdb9 under key 299 at location 299
+
+Starting testFindCastNeg...
+
+Starting testFindCastPos...
+
+Starting testFindCrewNeg...
+
+Starting testFindCastPos...
+
+Starting testGetCastFilmsNeg...
+
+Starting testGetCastFilmsPos...
+
+Starting testGetCastNeg...
+
+Starting testGetCastPos...
+
+Starting testGetCastStarsInFilmsNeg...
+
+Starting testGetCastStarsInFilmsPos...
+
+Starting testGetCrewFilmsNeg...
+
+Starting testGetCrewFilmsPos...
+
+Starting testGetCrewNeg...
+
+Starting testGetCastPos...
+
+Starting testGetFilmCastNeg...
+
+Starting testGetFilmCastPos...
+
+Starting testGetFilmCrewNeg...
+
+Starting testGetFilmCrewPos...
+
+Starting testGetMostCastCreditsNeg...
+
+Starting testGetMostCastCreditsPos...
+
+Starting testGetNumCastCreditsNeg...
+
+Starting testGetNumCastCreditsPos...
+
+Starting testGetUniqueCastNeg...
+
+Starting testGetUniqueCastPos...
+
+Starting testGetUniqueCrewNeg...
+
+Starting testGetUniqueCrewPos...
+
+Starting testRemoveNeg...
+
+Starting testRemovePos...
+
+Starting testRemovePosValues...
+
+Starting testSizeNeg...
+
+Starting testSizeOfCastNeg...
+
+Starting testSizeOfCastPos...
+
+Starting testSizeOfCrewNeg...
+
+Starting testSizeOfCrewPos...
+
+Starting testSizePos...
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
